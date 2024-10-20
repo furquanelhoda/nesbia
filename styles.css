@@ -243,11 +243,14 @@
     }
     
     tbody tr:nth-child(odd) {
-      background-color: #554800; /* لون أصفر داكن للوضع المظلم */
+      background-color: #1b0b54; /* لون أصفر داكن للوضع المظلم */
+      color: #000 !important;
     }
     
     tbody tr:nth-child(even) {
-      background-color: #1b5e20; /* لون أخضر داكن للوضع المظلم */
+      background-color: #023805; /* لون أخضر داكن للوضع المظلم */
+      color: #000 !important;
+
     }
     
     tbody tr:hover {
